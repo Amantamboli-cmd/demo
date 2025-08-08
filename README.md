@@ -1,4 +1,4 @@
 # demo
 auther = omkar demo <br>
-1st github repoitory
+This is my 1st github repoitory
 hiii
